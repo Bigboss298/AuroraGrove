@@ -1,0 +1,13 @@
+body {
+  font-family: "Raleway", sans-serif; }
+
+.navbar {
+  font-weight: 100; }
+  .navbar .navbar-brand h3 {
+    font-weight: 100; }
+  .navbar .nav-item {
+    font-size: 1.4rem; }
+  .navbar .nav-link:hover {
+    background: purple; }
+
+/*# sourceMappingURL=custom.css.map */
